@@ -1,0 +1,10 @@
+C:\Users\Win10\Desktop\asosyal\asosyal\bin\Debug\asosyal.exe.config
+C:\Users\Win10\Desktop\asosyal\asosyal\bin\Debug\asosyal.exe
+C:\Users\Win10\Desktop\asosyal\asosyal\bin\Debug\asosyal.pdb
+C:\Users\Win10\Desktop\asosyal\asosyal\obj\Debug\asosyal.csproj.AssemblyReference.cache
+C:\Users\Win10\Desktop\asosyal\asosyal\obj\Debug\asosyal.Form1.resources
+C:\Users\Win10\Desktop\asosyal\asosyal\obj\Debug\asosyal.Properties.Resources.resources
+C:\Users\Win10\Desktop\asosyal\asosyal\obj\Debug\asosyal.csproj.GenerateResource.cache
+C:\Users\Win10\Desktop\asosyal\asosyal\obj\Debug\asosyal.csproj.CoreCompileInputs.cache
+C:\Users\Win10\Desktop\asosyal\asosyal\obj\Debug\asosyal.exe
+C:\Users\Win10\Desktop\asosyal\asosyal\obj\Debug\asosyal.pdb
